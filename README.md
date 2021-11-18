@@ -1,1 +1,1 @@
-# javaterminal
+# JavaTerminal
